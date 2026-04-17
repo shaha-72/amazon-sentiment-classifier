@@ -76,6 +76,16 @@ The dataset was heavily imbalanced:
 8. **Predict** — custom reviews with confidence scores
 
 ---
+## Project Structure 
+
+amazon-sentiment-classifier/
+│
+├── sentiment_analysis.py
+├── README.md
+├── figure1.png
+├── requirements.txt
+├── .gitignore
+
 
 ## How to Run
 
